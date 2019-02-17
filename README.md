@@ -16,6 +16,8 @@ var width_after = dim.w;
 var height_after = dim.h
 ```
 
-## It really works?
+## Does it really work?
 
-![Rotating Rectangle](https://github.com/krzysztof-urbanowicz/DimensionsAfterRotate/blob/master/images/DimensionsAfterRotate.gif)
+As You can see below:
+
+![Rotating Rectangle](/blob/master/images/DimensionsAfterRotate.gif)
