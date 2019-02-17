@@ -20,4 +20,4 @@ var height_after = dim.h
 
 As You can see below:
 
-![Rotating Rectangle](/blob/master/images/DimensionsAfterRotate.gif)
+![Rotating Rectangle](/../../blob/master/images/DimensionsAfterRotate.gif)
