@@ -15,3 +15,7 @@ var dim = GetDimensionsAfterRotate(width_before, height_before, angle);
 var width_after = dim.w;
 var height_after = dim.h
 ```
+
+## It really works?
+
+![Rotating Rectangle](https://github.com/krzysztof-urbanowicz/DimensionsAfterRotate/blob/master/images/DimensionsAfterRotate.gif)
