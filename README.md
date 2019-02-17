@@ -6,6 +6,12 @@ I wanted calculate dimensions (width and height) of HTML element (div, image, ec
 
 ## How to use?
 
+HTML:
+```
+<script type="text/javascript" src="https://github.com/krzysztof-urbanowicz/DimensionsAfterRotate/blob/master/DimensionsAfterRotate.js"></script>
+```
+
+JavaScript:
 ```
 var width_before = 300;
 var height_before = 400;
