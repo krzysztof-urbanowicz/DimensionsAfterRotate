@@ -2,13 +2,13 @@
 
 ## Why?
 
-I wanted calculate dimensions (width and height) of HTML element (div, image, ect), but before display it (without using getBoundingClientRect() method).
+I wanted to calculate dimensions (width and height) of HTML element (div, image, ect), but before display it (without using getBoundingClientRect() method).
 
 ## How to use?
 
 HTML:
 ```
-<script type="text/javascript" src="https://github.com/krzysztof-urbanowicz/DimensionsAfterRotate/blob/master/DimensionsAfterRotate.js"></script>
+<script type="text/javascript" src="https://github.com/krzysztof-urbanowicz/DimensionsAfterRotate/blob/master/DimensionsAfterRotate.js?raw=true"></script>
 ```
 
 JavaScript:
